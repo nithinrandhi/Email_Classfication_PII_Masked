@@ -117,7 +117,7 @@ git commit -m "Initial push"
 git push
 ```
 
-Live Space: [https://huggingface.co/spaces/yourusername/email-classifier](https://huggingface.co/spaces/yourusername/email-classifier)
+
 
 ---
 
@@ -147,8 +147,9 @@ Live Space: [https://huggingface.co/spaces/yourusername/email-classifier](https:
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
-[Your Hugging Face Profile](https://huggingface.co/yourusername)
+**Nithin Randhi**  
+**deployement link** https://huggingface.co/spaces/nithinrandhi/email-classifier
+
 
 ---
 
